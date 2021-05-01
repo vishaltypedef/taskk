@@ -21,7 +21,7 @@
 </head>
 <body>
 	<div class="continer mt-3">
-		<h1 class="text-center">Welcome To Do App Manager</h1>
+		<h1 class="text-center">Welcome To Task Manager</h1>
 		<div class="alert alert-success">
 			<b><c:out value="${msg}"></c:out></b>
 		</div>
